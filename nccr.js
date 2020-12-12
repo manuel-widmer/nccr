@@ -8,7 +8,7 @@ var nccr = {
 		{nodeName:"Variability", group:6},
 		{nodeName:"Sociality", group:7},
 		{nodeName:"Cooperation", group:8},
-		{nodeName:"Digitisation", group:9},
+		{nodeName:"Digitisation", group:9}
 	],
 	links:[
 		{source:1, target:0, value:5},
