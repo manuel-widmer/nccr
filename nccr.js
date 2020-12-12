@@ -83,5 +83,5 @@ var nccr = {
 		{source:5, target:8, value:5},
 		{source:6, target:8, value:2},
 		{source:7, target:8, value:3}
-	],
+	]
 };
