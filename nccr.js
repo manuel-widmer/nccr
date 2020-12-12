@@ -1,5 +1,5 @@
 var nccr = {
-   nodes:[
+  nodes:[
     {nodeName:"Grammar", group:1},
     {nodeName:"Diversification", group:2},
     {nodeName:"Computation", group:3},
